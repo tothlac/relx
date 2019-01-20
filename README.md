@@ -3,6 +3,7 @@
 Relx
 =======
 
+1
 A release assembler for Erlang.
 
 Synopsis
