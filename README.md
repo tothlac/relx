@@ -8,6 +8,8 @@ Relx
 3
 4
 5
+6
+
 A release assembler for Erlang.
 
 Synopsis
